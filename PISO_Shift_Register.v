@@ -1,4 +1,4 @@
-//Verilog Code for  Parallel in Serial out Register 
+//Verilog Code for  Parallel in Serial out Shift Register 
 module PISO_Shift_Register(B,SL,clk,reset,Q);
 
 input [3:0]B;
