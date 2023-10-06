@@ -1,4 +1,4 @@
-//Verilog Code for  Parallel in Parallel out Register 
+//Verilog Code for  Parallel in Parallel out Shift Register 
 module PIPO_Shift_Register(B,clk,reset,Q);
 
 input [3:0]B;
