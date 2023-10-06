@@ -1,4 +1,4 @@
-//Testbench Code for Serial in Parallel in Serial out Register 
+//Testbench Code for Serial in Parallel in Serial Shift out Register 
 module PISO_Shift_Register_tb();
 
 reg [3:0]B;
