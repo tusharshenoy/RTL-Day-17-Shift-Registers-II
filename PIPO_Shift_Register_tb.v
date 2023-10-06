@@ -1,4 +1,4 @@
-//Testbench Code for Parallel in Parallel out Register 
+//Testbench Code for Parallel in Parallel out Shift Register 
 module PIPO_Shift_Register_tb();
 
 reg [3:0]B;
